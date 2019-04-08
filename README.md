@@ -5,7 +5,7 @@ Installation :
 ===============
 cd /tmp
 
-git clone https://github.com/4r3/synchro-seedbox
+git clone https://github.com/aur3l91/synchro-seedbox
 
 cd synchro-seedbox
 
